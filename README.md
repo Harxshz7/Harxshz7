@@ -12,7 +12,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+Fresh+BCA+Graduate;Built+Admin+Panels+%2F%2F+AI+Systems+%2F%2F+Web+Apps;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Java+21+%C2%B7+Vanilla+JS;Consistency+%3E+Motivation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+Fresh+BCA+Graduate;Built+Admin+Panels+%2F%2F+AI+Systems+%2F%2F+Web+Apps;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Java+21+%C2%B7+Vanilla+JS;)
 
 <br/>
 
