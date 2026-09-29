@@ -8,7 +8,7 @@
 
 # 👨‍💻 Hey, I'm Harsha
 
-**`Full Stack Developer · AI Builder · BCA Graduate`**
+**`Full Stack Developer ·· BCA Graduate`**
 
 <br/>
 
@@ -38,7 +38,7 @@ degree      : Bachelor of Computer Applications
 college     : Tunga Mahavidyalaya, Thirthahalli
 university  : Kuvempu University
 timeline    : 2023 – 2026
-focus       : Full Stack Web Development & AI Systems
+focus       : Full Stack Web Development 
 status      : Actively seeking full-time roles ⚡
 ```
 
